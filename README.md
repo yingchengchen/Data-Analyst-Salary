@@ -1,5 +1,5 @@
 ## Demo video
-![](https://github.com/yingchengchen/Data-Analyst-Salary/demo.gif)
+![](https://github.com/yingchengchen/Data-Analyst-Salary/blob/main/demo.gif)
 
 ## Environment Setup
 Frontend uses `Vue` + `vite`.
