@@ -1,8 +1,7 @@
 ## Demo video
+![](https://github.com/yingchengchen/Data-Analyst-Salary/demo.gif)
 
 ## Environment Setup
-
-### Frontend
 Frontend uses `Vue` + `vite`.
 Navigate to project directory and run:
 ```shell
