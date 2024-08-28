@@ -1,5 +1,9 @@
-## Demo video
+## Demo video and screenshots
 ![](https://github.com/yingchengchen/Data-Analyst-Salary/blob/main/demo.gif)
+![](https://github.com/yingchengchen/Data-Analyst-Salary/blob/main/screenshot_scatterplot.png)
+![](https://github.com/yingchengchen/Data-Analyst-Salary/blob/main/screenshot_boxplot.png)
+
+
 
 ## Environment Setup
 Frontend uses `Vue` + `vite`.
